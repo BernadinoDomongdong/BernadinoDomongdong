@@ -33,7 +33,7 @@ I work with data quality, SQL, data validation, and data integration. My work fo
 
 ## 📫 Connect With Me
 
-* [GitHub]([https://github.com/BernadinoDomongdong](https://bernadinodomongdong.github.io/mysite/))
+* [[GitHub]([https://github.com/BernadinoDomongdong](https://bernadinodomongdong.github.io/mysite/))](https://bernadinodomongdong.github.io/mysite/)
 
 ---
 
