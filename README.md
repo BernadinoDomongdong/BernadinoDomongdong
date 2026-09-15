@@ -31,7 +31,7 @@ I work with data quality, SQL, data validation, and data integration. My work fo
 * Exploring AI applications and automation
 * Building practical solutions for real-world problems
 
-## 📫 Connect With Me
+## 📫 More details of me
 
 * [[GitHub]([https://github.com/BernadinoDomongdong](https://bernadinodomongdong.github.io/mysite/))](https://bernadinodomongdong.github.io/mysite/)
 
